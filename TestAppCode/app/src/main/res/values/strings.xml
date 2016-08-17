@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CtsVerifier Tools</string>
+    <string name="action_settings">Settings</string>
+    <string name="is_inset_earset">Is inset earset?</string>
+    <string name="is_connect_wifi">Is connect the WIFI ?</string>
+    <string name="Software_build">Device Model</string>
+    <string name="device_platform">Platform</string>
+    <string name="clear">Clear</string>
+    <string name="test_results_cleared">Test results cleared.</string>
+    <string name="view">View</string>
+    <string name="test_results_error">Couldn\'t create test results report.</string>
+    <string name="export">Export</string>
+</resources>
